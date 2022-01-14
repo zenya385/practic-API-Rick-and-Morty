@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Rick-and-Morty\\.cache"
+		},
+		{
+			"path": "..\\Rick-and-Morty\\dist"
+		},
+		{
+			"path": "..\\Rick-and-Morty\\node_modules"
+		},
+		{
+			"path": "..\\Rick-and-Morty\\src"
+		}
+	]
+}
